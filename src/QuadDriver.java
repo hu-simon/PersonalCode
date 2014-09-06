@@ -28,5 +28,8 @@ public class QuadDriver {
 		
 		//Now, we tell the user the results.
 		System.out.println("Your two answers are: " + thirdStep + " and " + thirdStepTwo);
+		
+		//That's it! We now thank the user for trying the product. 
+		System.out.println("Thank you for using the Quadratic Formula Calculator! Please come again!");
 	}
 }
